@@ -6,7 +6,7 @@
 |---|---|---|---|
 | 0 | Product definition | Agree on purpose, first release boundary, and architecture direction. | Complete; PRD created |
 | 1 | WhatsApp feasibility | Determine whether an officially supported route fits the intended account and personal-inbox use. | Deferred — current official routes reviewed do not provide a suitable whole-inbox path |
-| 2 | Application foundation | Create the smallest runnable local application, configuration, SQLite schema, migrations, and local capture flow. | Initial capture slice prepared; project copied to `~/Repos/Relay`; private GitHub remote connected |
+| 2 | Application foundation | Create the smallest runnable local application, configuration, SQLite schema, migrations, and local capture flow. | Initial capture slice prepared; project copied to `~/Repos/Relay`; initial commit synced to private GitHub |
 | 3 | Inbox and action workflow | Review captured items, link people/conversations, and manage evidence-backed actions. | Not started |
 | 4 | WhatsApp inbound pilot | Add one adapter only after Step 1 confirms a viable route; show health, coverage, and recovery. | Not started |
 | 5 | Semantic assistance | Add summaries, triage, and candidate action/memory extraction with evidence and human correction. | Not started |
